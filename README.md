@@ -14,3 +14,4 @@ Reasons why I think this website deserves 3 scoops :)
 11. Has images
 12. Has a favicon
 13. Uses custom domain and subdomain
+14. Works perfectly on phones
